@@ -1,13 +1,5 @@
 .env
 __pycache__/
-*.log
-.vscode/
-node_modules/
-*.py[cod]
-*.egg-info/
-.pylintrc
-
-
 .vscode/
 .idea/
 .DS_Store
