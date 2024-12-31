@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.log
+.vscode/
+node_modules/
+*.py[cod]
+*.egg-info/
+
+.vscode/
+.idea/
+.DS_Store
